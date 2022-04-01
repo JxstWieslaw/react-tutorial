@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.933e650f.css",
-    "main.js": "/static/js/main.fdbe6250.js",
-    "index.html": "/index.html",
-    "main.933e650f.css.map": "/static/css/main.933e650f.css.map",
-    "main.fdbe6250.js.map": "/static/js/main.fdbe6250.js.map"
+    "main.css": "/react-tutorial/static/css/main.933e650f.css",
+    "main.js": "/react-tutorial/static/js/main.fdbe6250.js",
+    "index.html": "/react-tutorial/index.html",
+    "main.933e650f.css.map": "/react-tutorial/static/css/main.933e650f.css.map",
+    "main.fdbe6250.js.map": "/react-tutorial/static/js/main.fdbe6250.js.map"
   },
   "entrypoints": [
     "static/css/main.933e650f.css",
